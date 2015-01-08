@@ -107,7 +107,7 @@ namespace MySQL_Backup
             {
               "db1",
               "db2",
-			 	      "db3"
+	      "db3"
             };
 
       // Create the log file.
